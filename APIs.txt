@@ -1,0 +1,9 @@
+Calendario API https://calendarific.com
+Geolocalizacion/Zona horaria
+Clima/Tiempo
+
+Opcional: Usuario
+
+Iwk14tHROHVo2ypCU1EsTfHfuWCAldET
+
+Si quiere hacer viajes, otra api de viajes

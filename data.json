@@ -1,0 +1,1119 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-01-01",
+          "datetime": {
+            "year": 2025,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/new-year-day",
+        "urlid": "argentina/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-03-01",
+          "datetime": {
+            "year": 2025,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/argentina/ramadan-begins",
+        "urlid": "argentina/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Monday",
+        "description": "Carnival / Shrove Monday is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-03-03",
+          "datetime": {
+            "year": 2025,
+            "month": 3,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/carnival-monday",
+        "urlid": "argentina/carnival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Tuesday / Pancake Day",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-03-04",
+          "datetime": {
+            "year": 2025,
+            "month": 3,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/carnival-tuesday",
+        "urlid": "argentina/carnival-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Argentina (Buenos Aires)",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-03-20T06:01:21-03:00",
+          "datetime": {
+            "year": 2025,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 1,
+            "second": 21
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "ART",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Memorial Day",
+        "description": "Memorial Day is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-03-24",
+          "datetime": {
+            "year": 2025,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/memorial-day",
+        "urlid": "argentina/memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "End of Ramadan",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-03-30",
+          "datetime": {
+            "year": 2025,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Muslim",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/end-of-ramadan",
+        "urlid": "argentina/end-of-ramadan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Veterans",
+        "description": "Day of the Veterans is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-02",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/the-veterans-day",
+        "urlid": "argentina/the-veterans-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Passover Eve",
+        "description": "Passover Eve is a observance in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-12",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/argentina/passover-eve",
+        "urlid": "argentina/passover-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First day of Passover",
+        "description": "During Passover, the Jewish people remember the liberation of the Israelites from slavery, their exodus from Egypt, and that their first-born children were spared during the 10th plague, as told in the Haggadah.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-13",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/first-day-of-passover",
+        "urlid": "argentina/first-day-of-passover",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second Day of Passover",
+        "description": "Second Day of Passover is a optional holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-14",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 14
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/second-day-of-passover",
+        "urlid": "argentina/second-day-of-passover",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-17",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 17
+          }
+        },
+        "type": [
+          "Christian",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/maundy-thursday",
+        "urlid": "argentina/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-18",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/argentina/good-friday",
+        "urlid": "argentina/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sixth Day of Passover",
+        "description": "Sixth Day of Passover is a observance in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-18",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/argentina/sixth-day-of-passover",
+        "urlid": "argentina/sixth-day-of-passover",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Seventh Day of Passover",
+        "description": "Seventh Day of Passover is a optional holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-19",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 19
+          }
+        },
+        "type": [
+          "Hebrew",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/seventh-day-of-passover",
+        "urlid": "argentina/seventh-day-of-passover",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-20",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 20
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/argentina/easter-sunday",
+        "urlid": "argentina/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Last day of Passover",
+        "description": "The last day of Passover marks the end of the Passover period, which lasts for seven or eight days.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-20",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 20
+          }
+        },
+        "type": [
+          "Hebrew",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/last-day-of-passover",
+        "urlid": "argentina/last-day-of-passover",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Action Day for Tolerance and Respect between People",
+        "description": "Action Day for Tolerance and Respect between People is a observance in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-04-24",
+          "datetime": {
+            "year": 2025,
+            "month": 4,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/argentina/day-for-tolerance-and-respect",
+        "urlid": "argentina/day-for-tolerance-and-respect",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-05-01",
+          "datetime": {
+            "year": 2025,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/labor-day",
+        "urlid": "argentina/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tourist Bridge Holiday",
+        "description": "Tourist Bridge Holiday is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-05-02",
+          "datetime": {
+            "year": 2025,
+            "month": 5,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/bridge-public-holiday-1",
+        "urlid": "argentina/bridge-public-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day/May 1810 Revolution",
+        "description": "National Day/May 1810 Revolution is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-05-25",
+          "datetime": {
+            "year": 2025,
+            "month": 5,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/national-day-may-1810-revolution",
+        "urlid": "argentina/national-day-may-1810-revolution",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-06-07",
+          "datetime": {
+            "year": 2025,
+            "month": 6,
+            "day": 7
+          }
+        },
+        "type": [
+          "Muslim",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/eid-al-adha",
+        "urlid": "argentina/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for the Commemoration of General Don Martín Miguel de Güemes",
+        "description": "Day off for the Commemoration of General Don Martín Miguel de Güemes is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-06-16",
+          "datetime": {
+            "year": 2025,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/general-guemes-day",
+        "urlid": "argentina/general-guemes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Commemoration of General Don Martín Miguel de Güemes",
+        "description": "Commemoration of General Don Martín Miguel de Güemes is a observance in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-06-17",
+          "datetime": {
+            "year": 2025,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/argentina/general-guemes-day",
+        "urlid": "argentina/general-guemes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Flag Day is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-06-20",
+          "datetime": {
+            "year": 2025,
+            "month": 6,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/flag-day",
+        "urlid": "argentina/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Argentina (Buenos Aires)",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-06-20T23:42:15-03:00",
+          "datetime": {
+            "year": 2025,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 42,
+            "second": 15
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "ART",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram/New Year",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-06-27",
+          "datetime": {
+            "year": 2025,
+            "month": 6,
+            "day": 27
+          }
+        },
+        "type": [
+          "Muslim",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/muharram-new-year",
+        "urlid": "argentina/muharram-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence day",
+        "description": "Independence day is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-07-09",
+          "datetime": {
+            "year": 2025,
+            "month": 7,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/independence-day",
+        "urlid": "argentina/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tourist Bridge Holiday",
+        "description": "Tourist Bridge Holiday is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-08-15",
+          "datetime": {
+            "year": 2025,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/bridge-public-holiday-2",
+        "urlid": "argentina/bridge-public-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "San Martín Day",
+        "description": "San Martín Day is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-08-18",
+          "datetime": {
+            "year": 2025,
+            "month": 8,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/san-martin-day",
+        "urlid": "argentina/san-martin-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Rosh Hashana Eve",
+        "description": "Rosh Hashana Eve is a optional holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-09-22",
+          "datetime": {
+            "year": 2025,
+            "month": 9,
+            "day": 22
+          }
+        },
+        "type": [
+          "Hebrew",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/rosh-hashana-eve",
+        "urlid": "argentina/rosh-hashana-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Argentina (Buenos Aires)",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-09-22T15:19:22-03:00",
+          "datetime": {
+            "year": 2025,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 19,
+            "second": 22
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "ART",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equinox",
+        "urlid": "seasons/autumnal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Rosh Hashana",
+        "description": "Rosh Hashana, commonly known as the Jewish New Year, is the first day of Tishrei, the seventh month in the Hebrew calendar.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-09-23",
+          "datetime": {
+            "year": 2025,
+            "month": 9,
+            "day": 23
+          }
+        },
+        "type": [
+          "Hebrew",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/rosh-hashana",
+        "urlid": "argentina/rosh-hashana",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second day of Rosh Hashana",
+        "description": "Second day of Rosh Hashana is a optional holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-09-24",
+          "datetime": {
+            "year": 2025,
+            "month": 9,
+            "day": 24
+          }
+        },
+        "type": [
+          "Hebrew",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/second-day-of-rosh-hashana",
+        "urlid": "argentina/second-day-of-rosh-hashana",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Yom Kippur Eve",
+        "description": "Yom Kippur Eve is a optional holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-10-01",
+          "datetime": {
+            "year": 2025,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "Hebrew",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/yom-kippur-eve",
+        "urlid": "argentina/yom-kippur-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Yom Kippur",
+        "description": "Yom Kippur (Day of Atonement) is an important Jewish holiday that centers on the themes of atonement and repentance.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-10-02",
+          "datetime": {
+            "year": 2025,
+            "month": 10,
+            "day": 2
+          }
+        },
+        "type": [
+          "Hebrew",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/yom-kippur",
+        "urlid": "argentina/yom-kippur",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Columbus Day",
+        "description": "Columbus Day is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-10-12",
+          "datetime": {
+            "year": 2025,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/day-of-respect-for-cultural-diversity",
+        "urlid": "argentina/day-of-respect-for-cultural-diversity",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-10-19",
+          "datetime": {
+            "year": 2025,
+            "month": 10,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/argentina/mothers-day",
+        "urlid": "argentina/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Sovereignty Day",
+        "description": "National Sovereignty Day is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-11-17",
+          "datetime": {
+            "year": 2025,
+            "month": 11,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/sovereignty-day",
+        "urlid": "argentina/sovereignty-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tourist Bridge Holiday",
+        "description": "Tourist Bridge Holiday is a national holiday in Argentina",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-11-21",
+          "datetime": {
+            "year": 2025,
+            "month": 11,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/bridge-public-holiday-3",
+        "urlid": "argentina/bridge-public-holiday-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-12-08",
+          "datetime": {
+            "year": 2025,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/argentina/immaculate-conception-day",
+        "urlid": "argentina/immaculate-conception-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Argentina (Buenos Aires)",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-12-21T12:03:05-03:00",
+          "datetime": {
+            "year": 2025,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 3,
+            "second": 5
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "ART",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-12-25",
+          "datetime": {
+            "year": 2025,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/argentina/christmas-day",
+        "urlid": "argentina/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "ar",
+          "name": "Argentina"
+        },
+        "date": {
+          "iso": "2025-12-31",
+          "datetime": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/argentina/new-year-eve",
+        "urlid": "argentina/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}
